@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T14:56:13.264523+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-02-04T15:46:14.269181+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -30,6 +30,29 @@
           "time_info": "[00时56分 ~ 06时33分]"
         },
         {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时51分 ~ 15时46分]"
+        },
+        {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
           "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
           "source": "凤凰网",
@@ -41,27 +64,39 @@
           "time_info": "[00时56分 ~ 06时33分]"
         },
         {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
           "source": "凤凰网",
           "ranks": [
-            5,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 14时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 15时46分]"
         },
         {
-          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
-          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
-          "source": "凤凰网",
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
           "ranks": [
+            11,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[13时51分 ~ 15时46分]"
+        },
+        {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 15时46分]"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -76,17 +111,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时39分 ~ 07时31分]"
-        },
-        {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 14时56分]"
         },
         {
           "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
@@ -142,18 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
-        },
-        {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 14时56分]"
         },
         {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
@@ -213,17 +225,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时40分]"
-        },
-        {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 14时56分]"
         },
         {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
@@ -328,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)首席执行官：希望与美国总统特朗普政府达成一致的肥胖症药物医保覆盖将于今年“年中左右”启动。",
+          "url": "https://flash.jin10.com/detail/20260204152741614800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
@@ -482,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "特朗普被问及爱泼斯坦案连怼记者",
+          "url": "https://wallstreetcn.com/livenews/3049655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -701,6 +724,19 @@
           "time_info": "01时55分"
         },
         {
+          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
+          "url": "https://www.zhihu.com/question/2002278954355139608",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时51分 ~ 15时46分]"
+        },
+        {
           "title": "伊朗方面表示，已就未来几天与美国举行谈判作出安排。",
           "url": "https://flash.jin10.com/detail/20260204042724195800",
           "source": "金十数据",
@@ -735,6 +771,18 @@
         },
         {
           "title": "美军击落伊朗无人机",
+          "url": "https://www.douyin.com/hot/2388820",
+          "source": "抖音",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 15时46分]"
+        },
+        {
+          "title": "美军击落伊朗无人机",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%87%BB%E8%90%BD%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
@@ -756,29 +804,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 02时59分]"
-        },
-        {
-          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
-          "url": "https://www.zhihu.com/question/2002278954355139608",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 14时56分]"
-        },
-        {
-          "title": "美军击落伊朗无人机",
-          "url": "https://www.douyin.com/hot/2388820",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时42分]"
         },
         {
           "title": "伊朗：一架无人机在公海执行合法侦察活动时失联",
@@ -1161,8 +1186,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 14时56分]"
+          "appearance_count": 9,
+          "time_info": "[07时31分 ~ 15时46分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1172,8 +1197,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 15时46分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时10分 ~ 14时56分]"
+          "time_info": "[13时51分 ~ 15时46分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1212,28 +1250,28 @@
           "time_info": "[07时31分 ~ 14时56分]"
         },
         {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 14时56分]"
-        },
-        {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
           "url": "https://wallstreetcn.com/articles/3764895",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 15时46分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时55分 ~ 15时46分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -1282,17 +1320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时42分 ~ 13时52分]"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 14时56分]"
         },
         {
           "title": "【超微电脑上调全年净销售指引，股价盘后涨8%】超微电脑第二财季净销售126.8亿美元，分析师预期104.3亿美元。 预计全年净销售至少400亿美元，公司原本预计至少360亿美元。 预计第三财季净销售至少123亿美元，分析师预期102.5亿美元。 超微电脑美股盘后涨8%。",
@@ -1461,11 +1488,12 @@
           "url": "https://www.cls.cn/detail/2279758",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 14时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 15时46分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -1725,11 +1753,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时56分 ~ 14时56分]"
+          "appearance_count": 21,
+          "time_info": "[00时56分 ~ 15时46分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -1780,7 +1809,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -1814,13 +1843,24 @@
           "time_info": "[00时56分 ~ 05时38分]"
         },
         {
+          "title": "金价暴力反弹重上5000美元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
+        },
+        {
           "title": "精准逃顶后拟反手做多 富达基金经理看好金价回调买入机会",
           "url": "https://flash.jin10.com/detail/20260204141709898800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
