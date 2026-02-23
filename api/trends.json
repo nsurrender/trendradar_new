@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T06:28:01.709279+08:00",
+  "generated_at": "2026-02-24T06:44:50.596121+08:00",
   "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "美国国会预算办公室主任斯瓦格尔：静待特朗普政府作出决定，一旦获得最新预测数据将及时公布。",
@@ -61,9 +61,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
+        },
+        {
+          "title": "美国国会预算办公室（CBO）主任Swagel：正追踪特朗普政府的关税计划。 一旦掌握情况，将（针对联邦政府赤字问题）提供最新预期。 将静观特朗普政府会做出怎样的决定。",
+          "url": "https://wallstreetcn.com/livenews/3057679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
         },
         {
           "title": "美国众议长约翰逊：国会山不可能将总统特朗普的关税写入法律。（Politico）",
@@ -75,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
-        },
-        {
-          "title": "美国国会预算办公室（CBO）主任Swagel：正追踪特朗普政府的关税计划。 一旦掌握情况，将（针对联邦政府赤字问题）提供最新预期。 将静观特朗普政府会做出怎样的决定。",
-          "url": "https://wallstreetcn.com/livenews/3057679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "美国众议院议长约翰逊称：不认为特朗普政府应该退还关税款项。（CNN）",
@@ -125,6 +125,28 @@
           "time_info": "[02时06分 ~ 04时00分]"
         },
         {
+          "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260224055403039800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
+        },
+        {
+          "title": "特朗普否认美军将领“反对与伊朗开战”",
+          "url": "https://wallstreetcn.com/livenews/3057674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
+        },
+        {
           "title": "美国民主党力推强制退款方案，此前最高法院判定特朗普关税违宪",
           "url": "https://wallstreetcn.com/livenews/3057619",
           "source": "华尔街见闻-快讯",
@@ -135,6 +157,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时00分 ~ 04时54分]"
+        },
+        {
+          "title": "欧盟警告称：美国总统特朗普的最新关税政策破坏双边贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3057673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：参议院民主党将阻止特朗普关税延期。",
@@ -173,6 +206,17 @@
           "time_info": "[01时01分 ~ 02时06分]"
         },
         {
+          "title": "特朗普释放美伊局势缓和信号：更倾向协议而非战争",
+          "url": "https://flash.jin10.com/detail/20260224053130374800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
+        },
+        {
           "title": "美国参议院少数党领袖：参议院民主党人将阻止特朗普延长关税",
           "url": "https://wallstreetcn.com/livenews/3057573",
           "source": "华尔街见闻-快讯",
@@ -197,6 +241,28 @@
           "time_info": "[01时01分 ~ 02时06分]"
         },
         {
+          "title": "美国总统特朗普：如果不达成协议，伊朗来将面临极其糟糕的一天。我希望与伊朗达成协议，而不是发生战争。",
+          "url": "https://flash.jin10.com/detail/20260224051242405800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
+        },
+        {
+          "title": "美国总统特朗普：希望与伊朗达成协议，而不是开战。 我才是哪个决定是否发动战争的人。",
+          "url": "https://wallstreetcn.com/livenews/3057661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
+        },
+        {
           "title": "据英国《金融时报》：特朗普的“和平委员会”为加沙探索推出稳定币。",
           "url": "https://flash.jin10.com/detail/20260224002207019800",
           "source": "金十数据",
@@ -209,15 +275,37 @@
           "time_info": "[01时01分 ~ 02时06分]"
         },
         {
-          "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
-          "url": "https://flash.jin10.com/detail/20260224055403039800",
+          "title": "据华尔街日报记者：五角大楼向特朗普总统表达了对卷入与伊朗的长期军事行动的担忧，并指出正在考虑的战争计划存在风险，包括美国及其盟国的人员伤亡、防空力量削弱以及军队不堪重负。",
+          "url": "https://flash.jin10.com/detail/20260224045821374800",
           "source": "金十数据",
           "ranks": [
-            6
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
+        },
+        {
+          "title": "市场消息：特朗普正研究推出新的退休储蓄计划，可能在国情咨文中谈及退休储蓄计划。",
+          "url": "https://flash.jin10.com/detail/20260224045735002800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
+        },
+        {
+          "title": "美国总统特朗普正在考虑新的退休储蓄计划。 特朗普料将在国情咨文中谈及退休计划。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3057647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
         },
         {
           "title": "市场消息：特朗普最近对全球加征了15%的关税，该关税将在150天后到期。届时，国会必须延长该关税。但据三位知情人士透露，一些资深共和党人私下表示，将不会有足够的票数来延长该关税。",
@@ -231,28 +319,6 @@
           "time_info": "04时54分"
         },
         {
-          "title": "特朗普否认美军将领“反对与伊朗开战”",
-          "url": "https://wallstreetcn.com/livenews/3057674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "欧盟警告称：美国总统特朗普的最新关税政策破坏双边贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3057673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
           "title": "美众议院议长：国会不太可能就特朗普关税的立法层面达成共识",
           "url": "https://flash.jin10.com/detail/20260224043714344800",
           "source": "金十数据",
@@ -262,39 +328,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
-        },
-        {
-          "title": "特朗普释放美伊局势缓和信号：更倾向协议而非战争",
-          "url": "https://flash.jin10.com/detail/20260224053130374800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "美国总统特朗普：如果不达成协议，伊朗来将面临极其糟糕的一天。我希望与伊朗达成协议，而不是发生战争。",
-          "url": "https://flash.jin10.com/detail/20260224051242405800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "美国总统特朗普：希望与伊朗达成协议，而不是开战。 我才是哪个决定是否发动战争的人。",
-          "url": "https://wallstreetcn.com/livenews/3057661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "摩根士丹利：美国最高法院对特朗普关税政策的判决结果不至于在短期内改变赤字路径。 特朗普政府可能会挖空心思，从其他方面重新实施关税。 这将让投资者预计短期赤字路径“不至于发生实质性变化”。",
@@ -319,28 +352,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "据华尔街日报记者：五角大楼向特朗普总统表达了对卷入与伊朗的长期军事行动的担忧，并指出正在考虑的战争计划存在风险，包括美国及其盟国的人员伤亡、防空力量削弱以及军队不堪重负。",
-          "url": "https://flash.jin10.com/detail/20260224045821374800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "市场消息：特朗普正研究推出新的退休储蓄计划，可能在国情咨文中谈及退休储蓄计划。",
-          "url": "https://flash.jin10.com/detail/20260224045735002800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
           "title": "道指暴跌超600点，特朗普在周末上调全球关税——恐将让全球贸易重新陷入混乱",
           "url": "https://wallstreetcn.com/livenews/3057558",
           "source": "华尔街见闻-快讯",
@@ -350,17 +361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "美国总统特朗普正在考虑新的退休储蓄计划。 特朗普料将在国情咨文中谈及退休计划。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3057647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         }
       ]
     },
@@ -388,8 +388,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -399,8 +399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 06时44分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -431,9 +431,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
         },
         {
           "title": "道指ETF收跌超1.6%，和小盘股ETF领跌美股大类资产类ETF，黄金ETF涨2.7%",
@@ -442,9 +442,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
@@ -453,9 +453,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -464,9 +464,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股收盘）",
@@ -475,9 +475,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
         },
         {
           "title": "美股三大股指大幅收跌 IBM大跌13%",
@@ -486,9 +486,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
         },
         {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
@@ -497,9 +497,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
         }
       ]
     },
@@ -515,8 +515,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
@@ -526,8 +526,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -539,8 +539,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "与美国达成“临时协议”？伊朗：毫无根据",
@@ -550,8 +550,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -561,8 +561,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
@@ -573,8 +573,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "美军重兵合围伊朗",
@@ -585,8 +585,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
@@ -596,8 +596,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 06时44分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -610,6 +610,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时00分 ~ 04时54分]"
+        },
+        {
+          "title": "据阿联酋通讯社：阿联酋和伊朗外长讨论了地区发展和双边关系，并审查了影响和平、安全和共同利益的问题。",
+          "url": "https://flash.jin10.com/detail/20260224045258156800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时44分]"
         },
         {
           "title": "以总理：若遭伊朗袭击 将以其无法想象的力度回击",
@@ -632,17 +643,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "据阿联酋通讯社：阿联酋和伊朗外长讨论了地区发展和双边关系，并审查了影响和平、安全和共同利益的问题。",
-          "url": "https://flash.jin10.com/detail/20260224045258156800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         }
       ]
     },
@@ -710,8 +710,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时44分]"
         },
         {
           "title": "机构：特朗普关税引发不确定性，金价有望再创新高",
