@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T06:45:28.500636+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-04-14T08:04:19.500648+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 67,
       "titles": [
         {
           "title": "美军称“自4月13日起封锁伊朗港口海上交通”，报道称英国不参与，伊朗称“荒唐可笑”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
         },
         {
           "title": "内塔尼亚胡：与伊朗的停火可能很快结束",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
         },
         {
           "title": "美媒刊文：打来打去，美国盟友成伊朗战争的“输家”",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
         },
         {
           "title": "美军：将封锁霍尔木兹海峡，以总理：与伊朗的停火可能很快结束",
@@ -48,11 +48,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
         },
         {
           "title": "美中央司令部：4月13日起封锁伊朗港口海上交通",
@@ -77,6 +78,104 @@
           "time_info": "[04时24分 ~ 06时45分]"
         },
         {
+          "title": "“立即转向，否则开火”伊朗披露驱退美军舰视频",
+          "url": "https://news.ifeng.com/c/8sIG4k5Fr2L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗：曾准备稀释450公斤浓缩铀以示善意",
+          "url": "https://www.toutiao.com/trending/7628190000814771763/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗媒体暗示，下一步可能是封锁曼德海峡",
+          "url": "https://news.ifeng.com/c/8sIQ1znm7az",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗申请不去美国踢世界杯，国际足协拒绝",
+          "url": "https://news.ifeng.com/c/8sI8apkUful",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗外长：距达成协议仅一步之遥",
+          "url": "https://www.toutiao.com/trending/7627631226568003135/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            15,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗民众自发互助重建家园，在废墟中帮女子找回780克黄金",
+          "url": "https://news.ifeng.com/c/8sIAsTVZfeY",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗曾准备稀释450公斤浓缩铀",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9B%BE%E5%87%86%E5%A4%87%E7%A8%80%E9%87%8A450%E5%85%AC%E6%96%A4%E6%B5%93%E7%BC%A9%E9%93%80%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            15,
+            12,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
+          "title": "中国正计划向伊朗提供武器？外交部：反对无根据的抹黑或恶意关联",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32959191",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
           "title": "以总理：与伊朗的停火可能很快结束",
           "url": "https://news.ifeng.com/c/8sIPyrqv5GV",
           "source": "凤凰网",
@@ -86,28 +185,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 02时03分]"
-        },
-        {
-          "title": "伊朗：曾准备稀释450公斤浓缩铀以示善意",
-          "url": "https://www.toutiao.com/trending/7628190000814771763/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
-        },
-        {
-          "title": "“立即转向，否则开火”伊朗披露驱退美军舰视频",
-          "url": "https://news.ifeng.com/c/8sIG4k5Fr2L",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
         },
         {
           "title": "中国计划向伊朗提供武器？外交部回应",
@@ -122,17 +199,6 @@
           "time_info": "[00时15分 ~ 02时03分]"
         },
         {
-          "title": "伊朗媒体暗示，下一步可能是封锁曼德海峡",
-          "url": "https://news.ifeng.com/c/8sIQ1znm7az",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
-        },
-        {
           "title": "美军对伊朗港口封锁令生效时间已到",
           "url": "https://www.toutiao.com/trending/7628243902981475867/",
           "source": "今日头条",
@@ -142,6 +208,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 06时45分]"
+        },
+        {
+          "title": "伊朗战争丨万斯：与伊朗的谈判取得很大进展",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "报道：美国要求伊朗将铀浓缩活动冻结20年。",
@@ -155,31 +232,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "伊朗申请不去美国踢世界杯，国际足协拒绝",
-          "url": "https://news.ifeng.com/c/8sI8apkUful",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
-        },
-        {
-          "title": "伊朗外长：距达成协议仅一步之遥",
-          "url": "https://www.toutiao.com/trending/7627631226568003135/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            15,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
-        },
-        {
           "title": "以总理：与伊朗的停火可能很快结束",
           "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E6%80%BB%E7%90%86%EF%BC%9A%E4%B8%8E%E4%BC%8A%E6%9C%97%E7%9A%84%E5%81%9C%E7%81%AB%E5%8F%AF%E8%83%BD%E5%BE%88%E5%BF%AB%E7%BB%93%E6%9D%9F",
           "source": "百度热搜",
@@ -189,44 +241,6 @@
             17,
             23,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
-        },
-        {
-          "title": "伊朗民众自发互助重建家园，在废墟中帮女子找回780克黄金",
-          "url": "https://news.ifeng.com/c/8sIAsTVZfeY",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
-        },
-        {
-          "title": "伊朗曾准备稀释450公斤浓缩铀",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9B%BE%E5%87%86%E5%A4%87%E7%A8%80%E9%87%8A450%E5%85%AC%E6%96%A4%E6%B5%93%E7%BC%A9%E9%93%80%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            15,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
-        },
-        {
-          "title": "中国正计划向伊朗提供武器？外交部：反对无根据的抹黑或恶意关联",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32959191",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -281,7 +295,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -303,20 +317,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "巴基斯坦开通伊朗过境走廊",
-          "url": "https://www.toutiao.com/trending/7627805992630157354/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时53分"
+          "time_info": "06时45分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：若冲突继续将启用新作战方法",
@@ -339,6 +342,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "伊朗男足主帅：是否参加世界杯将听从伊足协决定。",
+          "url": "https://flash.jin10.com/detail/20260414073157174800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "伊朗男足主帅：是否参加世界杯将听从伊足协决定",
+          "url": "https://wallstreetcn.com/livenews/3087223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "巴基斯坦开通伊朗过境走廊",
+          "url": "https://www.toutiao.com/trending/7627805992630157354/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 08时04分]"
         },
         {
           "title": "伊朗外交部：强烈谴责以官员闯入阿克萨清真寺大院行为",
@@ -389,13 +426,24 @@
           "time_info": "[04时25分 ~ 05时53分]"
         },
         {
+          "title": "美以袭击伊朗进入第 46 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2027200224586720879",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "美国副总统万斯：预计伊朗将在开放海峡方面取得进展。",
           "url": "https://flash.jin10.com/detail/20260414061227197800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -417,9 +465,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "美军已开始对进出霍尔木兹海峡的船只进行阻截，封锁所有伊朗港口的船只，此举将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2027155979582666052",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "美国副总统万斯：（谈及潜在的第二轮会谈）现在球在伊朗一方。",
@@ -428,7 +487,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -450,9 +509,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "伊朗要求巴林、沙特阿拉伯等五个中东国家赔偿战争损失",
+          "url": "https://wallstreetcn.com/livenews/3087218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "伊朗国防部发言人：任何外国势力对霍尔木兹海峡的军事干预都将加剧危机，并动摇全球能源安全的稳定。",
@@ -464,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "伊朗致信联合国谴责美国海上封锁",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%87%B4%E4%BF%A1%E8%81%94%E5%90%88%E5%9B%BD%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "乌克兰央行行长：伊朗战争可能导致乌克兰通胀率上升1.8至2.5个百分点。因伊朗局势引发的油价上涨将对乌克兰的通胀和经济增长产生最大影响；化肥及生产成本的上升也将带来相当显著的影响。",
@@ -494,7 +575,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -527,7 +608,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -549,7 +630,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -563,6 +644,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "万斯透露谈判细节：谈判僵局在于伊朗授权不足",
+          "url": "https://flash.jin10.com/detail/20260414065836073800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美国副总统万斯：我们需要看到霍尔木兹海峡完全开放，这是伊朗人在谈判中试图改变规则的事情之一，我们明确表示这是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260414065200628800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "国际能源署（IEA）署长Birol：油价并没有体现出（伊朗战争）问题的严峻程度。 希望无需再次释放石油储备，但“我们准备（再次采取这样的）行动”。 （美国和以色列挑起）伊朗战争以来，超过80处石油与天然气设施遭到破坏，其中包括输送枢纽与炼油厂。",
@@ -620,6 +723,28 @@
           "time_info": "02时03分"
         },
         {
+          "title": "伊朗要求五个中东国家赔偿战争损失",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%A6%81%E6%B1%82%E4%BA%94%E4%B8%AA%E4%B8%AD%E4%B8%9C%E5%9B%BD%E5%AE%B6%E8%B5%94%E5%81%BF%E6%88%98%E4%BA%89%E6%8D%9F%E5%A4%B1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "巴基斯坦开通伊朗过境走廊",
+          "url": "https://wallstreetcn.com/livenews/3087201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "标普收复美以挑起伊朗战争以来的所有失地，半导体指数历史上首次收于9000点关口上方",
           "url": "https://wallstreetcn.com/livenews/3087143",
           "source": "华尔街见闻-快讯",
@@ -656,7 +781,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 47,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -667,19 +792,46 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
         },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
           "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 06时45分]"
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 08时04分]"
+        },
+        {
+          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
+          "url": "https://wallstreetcn.com/articles/3769786",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
+          "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
+          "url": "https://www.cls.cn/detail/2342732",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
         },
         {
           "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
@@ -695,17 +847,50 @@
           "time_info": "[02时03分 ~ 06时45分]"
         },
         {
-          "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
-          "url": "https://www.cls.cn/detail/2342732",
-          "source": "财联社热门",
+          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
+          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            7,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
+          "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
+          "url": "https://wallstreetcn.com/articles/3769823",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
+          "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
+          "url": "https://wallstreetcn.com/articles/3769804",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
+          "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
+          "url": "https://v.ifeng.com/c/8sIUop0o5UZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时04分]"
         },
         {
           "title": "伊朗战争丨特朗普威胁击沉靠近封锁线的伊朗船只",
@@ -717,61 +902,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 02时03分]"
-        },
-        {
-          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
-          "url": "https://wallstreetcn.com/articles/3769786",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
-        },
-        {
-          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
-          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
-        },
-        {
-          "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
-          "url": "https://wallstreetcn.com/articles/3769823",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
-        },
-        {
-          "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
-          "url": "https://wallstreetcn.com/articles/3769804",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
-        },
-        {
-          "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
-          "url": "https://v.ifeng.com/c/8sIUop0o5UZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 06时45分]"
         },
         {
           "title": "意大利总理梅洛尼：特朗普关于教皇的言论不可接受。",
@@ -907,6 +1037,18 @@
           "time_info": "[00时15分 ~ 02时03分]"
         },
         {
+          "title": "美英再现分歧！斯塔默：不支持特朗普封锁霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2342601",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 08时04分]"
+        },
+        {
           "title": "美国白宫：特朗普提名共和党前众议员Michelle Steel出任驻韩国大使。",
           "url": "https://flash.jin10.com/detail/20260414050141708800",
           "source": "金十数据",
@@ -917,6 +1059,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时45分]"
+        },
+        {
+          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
+          "url": "https://www.cls.cn/detail/2342892",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "伊朗国防部发言人：美国总统特朗普任何干涉霍尔木兹海峡和阿曼海的军事企图都将失败。",
@@ -941,6 +1094,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "特朗普再次批教皇 拒绝就此前表态道歉",
           "url": "https://flash.jin10.com/detail/20260414011952450800",
           "source": "金十数据",
@@ -958,9 +1122,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "美国财政部长贝森特在一份声明中表示，特朗普总统计划提名艾琳・布朗出任财政部国际事务副部长。布朗为现任太平洋投资管理公司董事总经理兼投资组合经理。",
+          "url": "https://flash.jin10.com/detail/20260414071808772800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -972,17 +1147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "美英再现分歧！斯塔默：不支持特朗普封锁霍尔木兹海峡",
-          "url": "https://www.cls.cn/detail/2342601",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
         },
         {
           "title": "最新公开文件显示，Anthropic PBC聘请了游说企业Ballard Partners，后者与美国总统特朗普存在关联。",
@@ -1073,6 +1237,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
+          "url": "https://wallstreetcn.com/livenews/3087202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
           "url": "https://flash.jin10.com/detail/20260414041925108800",
           "source": "金十数据",
@@ -1106,6 +1281,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
+          "url": "https://flash.jin10.com/detail/20260414064137451800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "美国总统特朗普将在任何时刻讲话。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3087084",
           "source": "华尔街见闻-快讯",
@@ -1115,12 +1301,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "据纽约时报：两名伊朗高级官员和一名美国官员透露，伊朗表示可以暂停铀浓缩活动长达五年，但特朗普政府拒绝了这一提议，坚持要求暂停期限为二十年。",
+          "url": "https://flash.jin10.com/detail/20260414064006233800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普称或对古巴采取行动",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%96%E5%AF%B9%E5%8F%A4%E5%B7%B4%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -1132,6 +1340,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 04时25分]"
+        },
+        {
+          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
+          "url": "https://www.cls.cn/detail/2342867",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览（美股收盘）",
@@ -1220,7 +1439,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -1234,6 +1453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "美国航空公司（AAL）美股盘后涨10%。",
+          "url": "https://wallstreetcn.com/livenews/3087205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
