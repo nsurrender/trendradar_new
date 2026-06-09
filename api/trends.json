@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T20:39:40.872082+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-06-09T23:57:12.143533+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -181,6 +181,18 @@
           "time_info": "13时08分"
         },
         {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时49分 ~ 23时57分]"
+        },
+        {
           "title": "路透社/益普索调查显示，仅有22%的人认可特朗普对生活成本问题的处理，70%的人表示不认可。",
           "url": "https://flash.jin10.com/detail/20260609034919706800",
           "source": "金十数据",
@@ -239,18 +251,6 @@
           "time_info": "[04时21分 ~ 06时28分]"
         },
         {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 20时39分]"
-        },
-        {
           "title": "特朗普提名前私人律师，任司法部长",
           "url": "https://news.ifeng.com/c/8toF8SZ3oLR",
           "source": "凤凰网",
@@ -282,6 +282,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
         },
         {
           "title": "特朗普遭全场嘘声",
@@ -499,7 +510,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -540,7 +551,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "“未来两周将对伊朗全面胜利”",
@@ -725,6 +736,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "伊朗最高领袖：我们从未寻求战争，也不寻求战争，但我们绝不会放弃我们的合法权利。",
+          "url": "https://flash.jin10.com/detail/20260609233159062800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：并非只能在战争与谈判之间二选一；我们会在适当的时候作战，也会在适当的时候谈判。只有这样，我们才能击败敌人，并表明谈判是斗争的延续。各级官员之间为了实现既定目标保持着充分协调。",
           "url": "https://flash.jin10.com/detail/20260609014025112800",
           "source": "金十数据",
@@ -805,7 +827,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -817,8 +839,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时27分 ~ 20时39分]"
+          "appearance_count": 10,
+          "time_info": "[06时27分 ~ 23时57分]"
+        },
+        {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时07分 ~ 23时57分]"
         },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -856,18 +890,6 @@
           "time_info": "[08时08分 ~ 13时08分]"
         },
         {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 20时39分]"
-        },
-        {
           "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
           "url": "https://www.cls.cn/detail/2394381",
           "source": "财联社热门",
@@ -878,6 +900,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时07分 ~ 17时50分]"
+        },
+        {
+          "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
         },
         {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
@@ -915,6 +948,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 06时28分]"
+        },
+        {
+          "title": "美股高开高走 存储芯片又大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0+%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%88%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
+        },
+        {
+          "title": "摩根资管：美股将挺过任何短暂且剧烈的回调",
+          "url": "https://wallstreetcn.com/livenews/3116931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "花旗：交易员大举搭建美股空仓 诸多重大风险事件临近",
@@ -978,7 +1033,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         }
@@ -994,11 +1049,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 20时39分]"
+          "appearance_count": 7,
+          "time_info": "[13时07分 ~ 23时57分]"
         },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -1276,7 +1332,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
